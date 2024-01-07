@@ -8,6 +8,7 @@ const items = [
     title: "Tenzi - React",
     img: "./tenzi-react.png",
     desc: "The game, inspired by Tenzi dice, involves managing and synchronizing state, making React the ideal technology choice. Tech used: React, styled-components, react-nanoid, react-confetti",
+    link:"https://markobanduka.github.io/portfolio/",
   },
   {
     id: 2,
@@ -48,7 +49,7 @@ const Single = ({ item }) => {
           <motion.div className="textContainer" style={{y}}>
             <h2>{item.title}</h2>
             <p>{item.desc}</p>
-            <button>See Demo</button>
+            <a href={item.link}><button>See Demo</button></a>
           </motion.div>
         </div>
       </div>
