@@ -6,8 +6,8 @@ const items = [
   {
     id: 1,
     title: "Tenzi - React",
-    img: "https://images.pexels.com/photos/18073372/pexels-photo-18073372/free-photo-of-young-man-sitting-in-a-car-on-a-night-street.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    img: "./tenzi-react.png",
+    desc: "The game, inspired by Tenzi dice, involves managing and synchronizing state, making React the ideal technology choice. Tech used: React, styled-components, react-nanoid, react-confetti",
   },
   {
     id: 2,
