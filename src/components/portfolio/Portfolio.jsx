@@ -8,7 +8,7 @@ const items = [
     title: "Tenzi - React",
     img: "./tenzi-react.png",
     desc: "The game, inspired by Tenzi dice, involves managing and synchronizing state, making React the ideal technology choice. Tech used: React, styled-components, react-nanoid, react-confetti",
-    link:"https://markobanduka.github.io/portfolio/",
+    link:"https://markobanduka.github.io/Tenzis/",
   },
   {
     id: 2,
