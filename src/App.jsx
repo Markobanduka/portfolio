@@ -19,7 +19,7 @@ const App = () => {
       <section>
         <Services />
       </section>
-      <section id="Portfolio">
+      <section>
         <Parallax type="portfolio" />
       </section>
       <Portfolio />
